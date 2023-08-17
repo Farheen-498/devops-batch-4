@@ -4,3 +4,9 @@ git log
 git log --onelog
 git config --global user:name
 git config --global user:email
+git pull
+git push
+git remote -v
+pull used for local data get dat on github
+push from local to github
+fetch to pull all changes and branches from github to the local
