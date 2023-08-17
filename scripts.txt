@@ -10,3 +10,5 @@ git remote -v
 pull used for local data get dat on github
 push from local to github
 fetch to pull all changes and branches from github to the local
+
+"adding just 1 change"
